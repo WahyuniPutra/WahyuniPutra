@@ -9,7 +9,9 @@
 <a href="https://github.com/WahyuniPutra"><img src="https://skillicons.dev/icons?i=eclipse,vscode,github,cpp,java,instagram" </a></p>
  <p align="center">
  <a href="https://www.instagram.com/wahyunp__/">
- <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a></p>
+ <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+ <a href="https://www.facebook.com/savezone.1232__/">
+ <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" /></a></p>
 <h2 align="center"> INFORMATICS ENGINEERING UNIVERSITY OF PALANGKARAYA </h2>
 <br><br>
    
