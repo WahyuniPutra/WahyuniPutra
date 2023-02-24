@@ -21,7 +21,7 @@
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuniPutra&theme=highcontrast&hide=TeX&layout=compact" align="left" />
       <img src="https://github-readme-stats.vercel.app/api?username=WahyuniPutra&theme=highcontrast&count_private=true&show_icons=true&include_all_commits=true" align="left" />
-      <img src="https://media.tenor.com/Nc80d_i90fcAAAAi/risusaurus-hololive.gif" align="right" />
+      <img src="https://media.tenor.com/BJk_XKXnJbwAAAAi/gura-gura-dance.gif" align="right" />
   </td>
   </tr>
 </table>
