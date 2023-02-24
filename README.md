@@ -20,7 +20,7 @@
   <tr border="0">
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=WahyuniPutra&theme=highcontrast&count_private=true&show_icons=true&include_all_commits=true" align="left" />
-      <img src="https://streak-stats.demolab.com/?user=WahyuniPutra&theme=highcontrast" />
+      <img src="https://streak-stats.demolab.com/?user=WahyuniPutra&theme=highcontrast" align="right" />
 <!--       <img src="https://media.tenor.com/j3S9PHR4lO4AAAAC/risu-hololive.gif" align="left" /> -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuniPutra&theme=highcontrast&hide=TeX&layout=compact" align="center" />
 <!--       <img src="https://media.tenor.com/Nc80d_i90fcAAAAi/risusaurus-hololive.gif" align="right" /> -->
