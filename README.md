@@ -12,7 +12,7 @@
  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
  <a href="https://www.facebook.com/savezone.1232__/">
  <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" /></a></p>
-<h2 align="center"> INFORMATICS ENGINEERING UNIVERSITY OF PALANGKARAYA </h2>
+<h2 align="center"> CAN WE MAKE IT? </h2>
 <br><br>
    
  <h2 align="center"> 📊 Statistics 📊 </h2>
