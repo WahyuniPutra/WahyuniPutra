@@ -4,7 +4,7 @@
   
 <h2 align="center">  Tools & Social Media <h2>
    
-<img src="https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif" width="400" height="500" align="center">
+<img src="https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif" width="400" height="300" align="center">
 <p align="center">
 <a href="https://github.com/WahyuniPutra"><img src="https://skillicons.dev/icons?i=eclipse,vscode,github,cpp,java,py,html,php,bootstrap,js,mysql,instagram" </a></p>
  <p align="center">
