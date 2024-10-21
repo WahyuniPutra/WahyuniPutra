@@ -4,7 +4,7 @@
   
 <h2 align="center">  Tools & Social Media <h2>
    
-<img src="https://media.tenor.com/H7U01DPQg8IAAAAd/gws-zeta.gif" width="400" height="250" align="left">
+<img src="https://media.tenor.com/BJk_XKXnJbwAAAAi/gura-gura-dance.gif" width="400" height="250" align="center">
 <p align="center">
 <a href="https://github.com/WahyuniPutra"><img src="https://skillicons.dev/icons?i=eclipse,vscode,github,cpp,java,py,html,php,bootstrap,js,mysql,instagram" </a></p>
  <p align="center">
@@ -22,9 +22,5 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuniPutra&theme=highcontrast&hide=TeX&layout=compact" width="469" align="left" />
       <img src="https://github-readme-stats.vercel.app/api?username=WahyuniPutra&theme=highcontrast&count_private=true&show_icons=true&include_all_commits=true" align="left" />
     </td>
-  <td width="50%" align="center">
-      <img src="https://media.tenor.com/BJk_XKXnJbwAAAAi/gura-gura-dance.gif" width="175" heigh="175" align="center" />
-    <h2 align="center">        LOADING 0.0% </h2>
-  </td>
   </tr>
 </table>
