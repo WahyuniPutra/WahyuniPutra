@@ -6,7 +6,7 @@
    
 <img src="https://media.tenor.com/H7U01DPQg8IAAAAd/gws-zeta.gif" width="400" height="250" align="left">
 <p align="center">
-<a href="https://github.com/WahyuniPutra"><img src="https://skillicons.dev/icons?i=eclipse,vscode,github,cpp,java,instagram" </a></p>
+<a href="https://github.com/WahyuniPutra"><img src="https://skillicons.dev/icons?i=eclipse,vscode,github,cpp,java,py,html,php,bootstrap,js,mysql,instagram" </a></p>
  <p align="center">
  <a href="https://www.instagram.com/wahyunp__/">
  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
